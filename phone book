@@ -245,14 +245,14 @@ int main()
             else if(ans==2)
             {
                 printf("The phone book has not closed\n");
-                printf("You can continue\n");
+                printf("You can continue \n");
             }
         }
 
     }
     else
     {
-        printf("In-Valid");
+        printf("In Valid");
     }
     return 0;
 }
